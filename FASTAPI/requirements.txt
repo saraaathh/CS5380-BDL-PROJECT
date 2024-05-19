@@ -1,0 +1,8 @@
+Pillow
+numpy
+uvicorn
+fastapi
+tensorflow
+prometheus_client
+starlette
+h5py
